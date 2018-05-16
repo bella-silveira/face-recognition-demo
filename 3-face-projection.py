@@ -4,6 +4,9 @@ import dlib
 import cv2
 import openface
 
+# Please download the trained face detection model on
+# http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+# (the file is too big, so I can't add it in the repo)
 predictor_model = "shape_predictor_68_face_landmarks.dat"
 output_path = "output/alignedFaces/"
 

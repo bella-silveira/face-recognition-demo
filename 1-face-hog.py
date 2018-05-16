@@ -5,6 +5,9 @@ import os
 from skimage import feature
 from skimage import exposure
 
+# Please download the trained face detection model on
+# http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+# (the file is too big, so I can't add it in the repo)
 predictor_model = "shape_predictor_68_face_landmarks.dat"
 
 # Taking the image from cli param
