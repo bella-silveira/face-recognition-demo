@@ -13,7 +13,7 @@ To run this project, you'll need to instal:
 - OpenFace
 - A X11 client (I'm using XQuartz for macOS, but feel free to use any other one)
 
-Also don't forget to download the trained face recognition on http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2 and save it on the project root
+Also don't forget to download the trained face recognition model on http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2 and save it on the project root
 
 ## Running the files
 
