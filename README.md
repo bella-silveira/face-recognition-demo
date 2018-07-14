@@ -1,4 +1,4 @@
-## Face Recognition Demo
+# Face Recognition Demo
 
 Hello, machine learning friends!
 
