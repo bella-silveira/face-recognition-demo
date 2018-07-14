@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "bella-silveira",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "face-api.js": "^0.7.0",
+    "request": "^2.87.0"
+  }
+}
