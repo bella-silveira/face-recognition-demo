@@ -20,7 +20,7 @@ To run this project, you'll need to execute:
 npm start
 ```
 
-and the it'll be running on port 8000.
+It'll be running on port 8000.
 
 Happy hacking!
 
