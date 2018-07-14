@@ -6,7 +6,7 @@ Hi folks! Here you can find an example of a face recognition project in JS, usin
 
 To install the files, just run
 
-````
+```
 npm i
 ```
 
